@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/gentree-frontend/precache-manifest.03dad5959fa48d5cca34c2ee6953c0e9.js"
+  "/gentree-frontend/precache-manifest.1ff10988e5ce6d46d4d532cfcb6c351f.js"
 );
 
 self.addEventListener('message', (event) => {
