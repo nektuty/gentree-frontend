@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/gentree-frontend/static/css/main.5dab3bc1.chunk.css",
+    "main.js": "/gentree-frontend/static/js/main.1621d805.chunk.js",
+    "main.js.map": "/gentree-frontend/static/js/main.1621d805.chunk.js.map",
+    "runtime-main.js": "/gentree-frontend/static/js/runtime-main.f7ee1798.js",
+    "runtime-main.js.map": "/gentree-frontend/static/js/runtime-main.f7ee1798.js.map",
+    "static/js/2.02351f7d.chunk.js": "/gentree-frontend/static/js/2.02351f7d.chunk.js",
+    "static/js/2.02351f7d.chunk.js.map": "/gentree-frontend/static/js/2.02351f7d.chunk.js.map",
+    "static/css/3.c6db1617.chunk.css": "/gentree-frontend/static/css/3.c6db1617.chunk.css",
+    "static/js/3.3bf8e03f.chunk.js": "/gentree-frontend/static/js/3.3bf8e03f.chunk.js",
+    "static/js/3.3bf8e03f.chunk.js.map": "/gentree-frontend/static/js/3.3bf8e03f.chunk.js.map",
+    "static/css/4.088c84dd.chunk.css": "/gentree-frontend/static/css/4.088c84dd.chunk.css",
+    "static/js/4.1da97a33.chunk.js": "/gentree-frontend/static/js/4.1da97a33.chunk.js",
+    "static/js/4.1da97a33.chunk.js.map": "/gentree-frontend/static/js/4.1da97a33.chunk.js.map",
+    "static/css/5.a5cdaaa9.chunk.css": "/gentree-frontend/static/css/5.a5cdaaa9.chunk.css",
+    "static/js/5.58e4e773.chunk.js": "/gentree-frontend/static/js/5.58e4e773.chunk.js",
+    "static/js/5.58e4e773.chunk.js.map": "/gentree-frontend/static/js/5.58e4e773.chunk.js.map",
+    "index.html": "/gentree-frontend/index.html",
+    "precache-manifest.e519b29832a5b007ef329ea804c33179.js": "/gentree-frontend/precache-manifest.e519b29832a5b007ef329ea804c33179.js",
+    "service-worker.js": "/gentree-frontend/service-worker.js",
+    "static/css/3.c6db1617.chunk.css.map": "/gentree-frontend/static/css/3.c6db1617.chunk.css.map",
+    "static/css/4.088c84dd.chunk.css.map": "/gentree-frontend/static/css/4.088c84dd.chunk.css.map",
+    "static/css/5.a5cdaaa9.chunk.css.map": "/gentree-frontend/static/css/5.a5cdaaa9.chunk.css.map",
+    "static/css/main.5dab3bc1.chunk.css.map": "/gentree-frontend/static/css/main.5dab3bc1.chunk.css.map",
+    "static/js/2.02351f7d.chunk.js.LICENSE.txt": "/gentree-frontend/static/js/2.02351f7d.chunk.js.LICENSE.txt",
+    "static/media/spinner.svg": "/gentree-frontend/static/media/spinner.11297884.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f7ee1798.js",
+    "static/js/2.02351f7d.chunk.js",
+    "static/css/main.5dab3bc1.chunk.css",
+    "static/js/main.1621d805.chunk.js"
+  ]
+}
